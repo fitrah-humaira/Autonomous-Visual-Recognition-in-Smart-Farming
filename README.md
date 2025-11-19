@@ -43,9 +43,10 @@ Group D - CSCI 4340 Machine Learning (Semester 2, 2024/2025)
 
 Supervisor: Assoc. Prof. Ts. Dr. Amelia Ritahani Bt. Ismail.
 
-📝 Author
 
-Fitrah Nur Humaira
 
-**This project is for educational purposes.**
+***📝 Author***
 
+***Fitrah Nur Humaira***
+
+***This project is for educational purposes.***
