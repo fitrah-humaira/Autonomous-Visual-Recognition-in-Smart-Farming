@@ -40,6 +40,7 @@ Group D - CSCI 4340 Machine Learning (Semester 2, 2024/2025)
 - Galeya Binti Herman Gallego
 - Fitrah Nur Humaira Binti Muhammad Radaudin
 - Nurfatihah Hamzah
+
 Supervisor: Assoc. Prof. Ts. Dr. Amelia Ritahani Bt. Ismail.
 
 📝 Author
